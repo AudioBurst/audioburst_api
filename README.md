@@ -4,9 +4,7 @@ Welcome to the audioburst_api wiki!
 We're making on-demand audio content available in near real time. 
 Audioburst’s API enables easy access to a millions of minutes of spoken-word media from live radio + podcasts everyday. You get snippets of audio based on queries, keywords category and more.
 
-
 ## Versioning
-
 We hope to improve the API over time and make sure it's backward compatible
 
 ## Bugs and Requests
